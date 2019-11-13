@@ -10,4 +10,5 @@ Based on Erin Schmidts initial MDO analysis
 
 * LV4 DAC0 chamfered fins
 Same as LV4 DAC0 Baseline, with exception to the airfoils are the same as LV3/3.1. This model is to
-be used to determine differences in stability. 
+be used to determine differences in stability.
+  * Assumes 10 deg chamfer angle machined on leading/trailing edges (see chamfered_rectangle_geometry_calc.ods) 
