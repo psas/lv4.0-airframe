@@ -4,7 +4,12 @@ Repo for our future liquid propellant rocket!
 ## Isotank
 The isotank is a separate project with it's own git repository. It's included as a sub module in this repo. If cloning from scratchit recommended to use:
 
-`git clone --recurse-submodules`
+`git clone --recurse-submodules https://github.com/psas/lv4.0-airframe.git`
+
+or if using SSH (token)
+
+`git clone --recurse-submodules git@github.com:psas/lv4.0-airframe.git`
+
 
 If you've already cloned it, use the following commands:
 
