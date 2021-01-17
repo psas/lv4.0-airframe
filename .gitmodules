@@ -1,0 +1,3 @@
+[submodule "cad/isotank"]
+	path = cad/isotank
+	url = https://github.com/psas/lv4-isotank.git
