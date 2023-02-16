@@ -29,10 +29,10 @@
       <BBox>
         <X_Len Value="8.666180367439640264e+00" ID="JVURBZFFXKW"/>
         <X_Min Value="-1.011349039031933430e-03" ID="YZJLIFGCNTQ"/>
-        <Y_Len Value="1.042184226218336729e+00" ID="ANQCHFODNPN"/>
-        <Y_Min Value="-5.210921131091683645e-01" ID="VTISFLSDING"/>
-        <Z_Len Value="9.025580153285079898e-01" ID="QYKJKIDAZAE"/>
-        <Z_Min Value="-3.017692153285080336e-01" ID="NMMJAISZYSI"/>
+        <Y_Len Value="1.201577600000000023e+00" ID="ANQCHFODNPN"/>
+        <Y_Min Value="-6.007888000000000117e-01" ID="VTISFLSDING"/>
+        <Z_Len Value="1.201577600000000023e+00" ID="QYKJKIDAZAE"/>
+        <Z_Min Value="-6.007888000000000117e-01" ID="NMMJAISZYSI"/>
       </BBox>
       <Background>
         <HeightScale Value="1.000000000000000000e+00" ID="LBPFQDWEQNN"/>
@@ -1288,10 +1288,10 @@
         <BBox>
           <X_Len Value="5.651690184006081807e-01" ID="MMBQRXKRKEG"/>
           <X_Min Value="8.099999999999999645e+00" ID="FRJRTGNKBXS"/>
-          <Y_Len Value="1.042184226218336729e+00" ID="TXTGGFMFOHH"/>
-          <Y_Min Value="-5.210921131091683645e-01" ID="NDGLWXWPEGS"/>
-          <Z_Len Value="9.025580153285079898e-01" ID="ENTJQTTKPYI"/>
-          <Z_Min Value="-3.017692153285080336e-01" ID="IBBWUFCMACB"/>
+          <Y_Len Value="1.201577600000000023e+00" ID="TXTGGFMFOHH"/>
+          <Y_Min Value="-6.007888000000000117e-01" ID="NDGLWXWPEGS"/>
+          <Z_Len Value="1.201577600000000023e+00" ID="ENTJQTTKPYI"/>
+          <Z_Min Value="-6.007888000000000117e-01" ID="IBBWUFCMACB"/>
         </BBox>
         <EndCap>
           <CapUMaxLength Value="1.000000000000000000e+00" ID="JAUILLKRHMV"/>
@@ -1341,7 +1341,7 @@
           <Sym_Ancestor_Origin_Flag Value="1.000000000000000000e+00" ID="LKKJCOSFEYL"/>
           <Sym_Axial_Flag Value="8.000000000000000000e+00" ID="NEFKZDNFDIQ"/>
           <Sym_Planar_Flag Value="0.000000000000000000e+00" ID="MNWCBIIGWIV"/>
-          <Sym_Rot_N Value="3.000000000000000000e+00" ID="WOEBDZCZWZE"/>
+          <Sym_Rot_N Value="4.000000000000000000e+00" ID="WOEBDZCZWZE"/>
         </Sym>
         <WakeSettings>
           <WakeAngle Value="0.000000000000000000e+00" ID="INQHPCWPGOV"/>
